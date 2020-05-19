@@ -1,0 +1,11 @@
+.iframe {
+    width: 100%;
+	height: calc(100vh - 320px);
+    position: inherit;
+    display: block;
+}
+.settings {
+	height: calc(100vh - 320px);
+	position: inherit;
+    display: block;
+}
