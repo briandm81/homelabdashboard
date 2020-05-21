@@ -1,0 +1,10 @@
+[SETTINGS]
+siteTitle=Homelab Rat
+siteImage=./img/hlrlogowhite.png
+siteIcon=./img/homelabraticon.png
+zipCode=75034
+daysForecast=4-Day
+weatherEnabled=Enabled
+timeFormat=12 Hour
+iframeURL=http://10.0.0.225:3000/d/1nOi2QGmk/service-status-small?orgId=1&theme=light
+
